@@ -1,6 +1,6 @@
 # AI-MazeGame
 
-A AI project created in the course TNM095 at Linköpings University.
+A AI project created in the course TSBK03 at Linköpings University.
 
 ## Idea
 
