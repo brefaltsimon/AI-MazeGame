@@ -9,4 +9,8 @@ The AI will patrol the maze with a lot of spread.
 
 Project is created in Unity with C# scripting
 
+# Update
+currently only the scripting code is up for the different scripts used.
+GuardBehaviour.cs holds most of the project including the functions for using A* pathfinding and the use of influence maps.
+
 Authors/creators: Simon and Isabelle
